@@ -271,7 +271,7 @@ const CreateJob = () => {
 
           {/* 11th row: Additional Comments */}
           <div className="w-full">
-            <label className="block mb-2 text-lg">Additional Comments</label>
+            <label className="block mb-2 text-lg">Additional Comment</label>
             <textarea
               className="w-full pl-3 py-1.5 focus:outline-none"
               rows={3}
